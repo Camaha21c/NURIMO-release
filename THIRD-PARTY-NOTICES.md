@@ -2,7 +2,7 @@
 
 NURIMO 는 아래의 공개 소프트웨어를 사용합니다. 각 구성 요소의 저작권은 해당 저작권자에게 있습니다.
 
-> **확인 시점**: 2026-09-08 · **NURIMO 판**: 1.7.0
+> **확인 시점**: 2026-09-15 · **NURIMO 판**: 1.8.0
 >
 > 라이선스는 **버전을 올릴 때마다 다시 확인한다**. ImageSharp 처럼 도중에 라이선스가
 > 바뀐 전례가 있다(PLAN.md 17장).
@@ -22,6 +22,10 @@ NURIMO 는 아래의 공개 소프트웨어를 사용합니다. 각 구성 요�
 | PDFsharp | 6.2.4 | MIT | © empira Software GmbH |
 | PDFtoImage | 5.4.0 | MIT | © David Sungaila |
 | **PDFium** | (PDFtoImage 내장) | **BSD-3-Clause** | © 2014 The PDFium Authors |
+| **BitMiracle.LibTiff.NET** | 2.4.660 | **BSD-3-Clause** | © Bit Miracle |
+| **Svg.Skia** | 5.2.3 | MIT | © Wiesław Šoltés |
+| HarfBuzzSharp | 14.2.0 | MIT | © Microsoft Corporation, Xamarin Inc. |
+| HarfBuzz | (HarfBuzzSharp 내장) | MIT | © HarfBuzz Project Authors |
 | H.NotifyIcon.Wpf | 2.4.1 | MIT | © Konstantin S., Philipp Sumi |
 | Serilog | 4.4.0 | Apache-2.0 | © Serilog Contributors |
 
@@ -33,6 +37,24 @@ NURIMO 는 아래의 공개 소프트웨어를 사용합니다. 각 구성 요�
 | Inno Setup | 6.7.3 | Inno Setup License |
 
 ## 함께 배포하지 않는 것
+
+### 그림 갈래를 읽는 것 — HEIC · AVIF · Raw(CR2·NEF·ARW·DNG·RAF)
+
+NURIMO 는 이 갈래들의 **해석기를 함께 배포하지 않습니다.**
+
+**제약 없는 라이선스로 가는 길이 없기 때문입니다.** HEIC 는 `libheif`(LGPL)에 더해
+속이 HEVC 라 **특허 로열티**가 따라붙고, Raw 는 사실상 `LibRaw`(LGPL/CDDL)뿐입니다.
+정적으로 묶은 단일 DLL 로 LGPL 을 재배포하려면 「받는 사람이 다시 링크할 수 있게」 하는
+의무가 생기는데, 소스를 공개하지 않는 배포본과는 맞지 않습니다.
+**FFmpeg 을 담지 않기로 한 것과 같은 줄기입니다.**
+
+`Magick.NET`(Apache-2.0)이 이 모두를 한 번에 읽어 주지만, 그 안에 든 네이티브
+24MB 에 위의 카피레프트 부품들이 함께 들어 있어 같은 문제를 그대로 안고 옵니다.
+
+**대신 Windows 에게 맡깁니다.** 사용자가 Microsoft Store 에서 「HEIF 이미지 확장」·
+「AV1 비디오 확장」·「Raw 이미지 확장」을 설치해 두었다면 NURIMO 가 그것을 통해 읽고,
+없으면 **무엇을 설치하면 되는지 말해 줍니다.** 우리가 아무것도 재배포하지 않으므로
+라이선스도 특허도 사용자의 코덱 쪽에 남습니다.
 
 ### FFmpeg
 
