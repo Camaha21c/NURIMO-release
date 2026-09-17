@@ -1,5 +1,5 @@
 {
-    "version":  "1.24.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.24.1/NURIMO-1.24.1-setup.exe",
-    "notes":  "1.24.1 — 트레이로 시작했을 때 영역 캡처에서 꺼지던 것을 고쳤다"
+    "version":  "1.24.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.24.2/NURIMO-1.24.2-setup.exe",
+    "notes":  "1.24.2 — 끝낼 때 오류로 꺼지던 것을 고쳤다"
 }
