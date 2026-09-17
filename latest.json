@@ -1,5 +1,5 @@
 {
-    "version":  "1.24.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.24.0/NURIMO-1.24.0-setup.exe",
-    "notes":  "1.24.0 — 편집창에 잘라내기 · 배경 꾸미기"
+    "version":  "1.24.1",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.24.1/NURIMO-1.24.1-setup.exe",
+    "notes":  "1.24.1 — 트레이로 시작했을 때 영역 캡처에서 꺼지던 것을 고쳤다"
 }
