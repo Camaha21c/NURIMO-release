@@ -1,5 +1,5 @@
 {
-    "version":  "1.26.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.26.1/NURIMO-1.26.1-setup.exe",
-    "notes":  "1.26.1 — 바탕화면에서는 마우스가 있는 모니터만 잡는다"
+    "version":  "1.26.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.26.2/NURIMO-1.26.2-setup.exe",
+    "notes":  "1.26.2 — 영역 캡처: 가장자리 띠는 모니터 전체, 바탕화면은 작업 표시줄 뺀 영역부터"
 }
