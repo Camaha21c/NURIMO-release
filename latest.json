@@ -1,5 +1,5 @@
 {
-    "version": "1.42.2",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.42.2/NURIMO-1.42.2-setup.exe",
-    "notes": "큰 PDF 를 편집창에서 아래로 내려도 미리보기가 채워지도록"
+    "version": "1.43.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.43.0/NURIMO-1.43.0-setup.exe",
+    "notes": "PDF 편집창을 세 칸으로 — 가운데 크게 보기, 오른쪽에 편집 단추와 쪽 목록"
 }
