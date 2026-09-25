@@ -1,5 +1,5 @@
 {
-    "version":  "1.48.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.1/NURIMO-1.48.1-setup.exe",
-    "notes":  "「여백 찾기」가 스캔한 PDF(누렇거나 어두운 종이, 가장자리 그림자, 먼지)에서도 글 둘레를 찾습니다."
+    "version":  "1.48.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.2/NURIMO-1.48.2-setup.exe",
+    "notes":  "「여백 찾기」가 스캔한 PDF 의 펀치 구멍을 빼고 글 둘레를 찾습니다."
 }
