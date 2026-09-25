@@ -1,5 +1,5 @@
 {
-    "version":  "1.52.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.52.0/NURIMO-1.52.0-setup.exe",
-    "notes":  "명령줄 --run 에 --wait 를 붙이면 끝날 때까지 기다려 결과를 종료 코드로 알립니다(0 다 됨 · 2 일부 · 1 실패 · 64 쓰는 법). 작업 기록을 두 프로세스가 함께 써도 빠지지 않습니다."
+    "version":  "1.52.1",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.52.1/NURIMO-1.52.1-setup.exe",
+    "notes":  "하나도 만들지 못하고 실패만 한 작업(깨진 그림 하나 등)을 「일부만 됐습니다」가 아니라 「하지 못했습니다」와 그 까닭으로 알립니다."
 }
