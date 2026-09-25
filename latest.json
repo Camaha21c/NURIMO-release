@@ -1,5 +1,5 @@
 {
-    "version":  "1.48.8",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.8/NURIMO-1.48.8-setup.exe",
-    "notes":  "그림 도구(바꾸기·줄이기·용량 맞추기·PDF 로)가 끝이 잘린(받다 끊긴) 그림을 만나면 결과는 만들고 「살펴볼 것」으로 알려 줍니다."
+    "version":  "1.49.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.49.0/NURIMO-1.49.0-setup.exe",
+    "notes":  "PDF 편집·합치기·추출·나누기가 책갈피와 쪽 링크를 지킵니다. 편집창에 다시 하기·빈 쪽 찾기·양면 섞기·순서 뒤집기가 생겼습니다."
 }
