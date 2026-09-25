@@ -1,5 +1,5 @@
 {
-    "version":  "1.48.5",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.5/NURIMO-1.48.5-setup.exe",
-    "notes":  "「여백 찾기」가 슬라이드 가운데의 세로 띠(색 띠·사진)를 제본 골로 잘못 보고 위아래를 자르던 것을 고쳤습니다."
+    "version":  "1.48.6",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.6/NURIMO-1.48.6-setup.exe",
+    "notes":  "PDF 편집창에서 가로로 긴 쪽(슬라이드·펼침)을 크게 볼 때 쓸데없이 뜨던 가로 스크롤 막대를 없앴습니다."
 }
