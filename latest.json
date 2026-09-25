@@ -1,5 +1,5 @@
 {
-    "version":  "1.48.4",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.4/NURIMO-1.48.4-setup.exe",
-    "notes":  "「여백 찾기」가 가운데서 밀리거나 넓은 제본 골 그림자도 뺍니다(펼침 스캔). 한 쪽짜리 문서의 가운데 세로 띠는 내용으로 남깁니다."
+    "version":  "1.48.5",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.5/NURIMO-1.48.5-setup.exe",
+    "notes":  "「여백 찾기」가 슬라이드 가운데의 세로 띠(색 띠·사진)를 제본 골로 잘못 보고 위아래를 자르던 것을 고쳤습니다."
 }
