@@ -1,5 +1,5 @@
 {
-    "version":  "1.48.3",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.3/NURIMO-1.48.3-setup.exe",
-    "notes":  "「여백 찾기」가 책을 펼쳐 두 쪽을 한 번에 스캔한 PDF 에서 가운데 골 그림자를 빼고 글 둘레를 찾습니다."
+    "version":  "1.48.4",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.4/NURIMO-1.48.4-setup.exe",
+    "notes":  "「여백 찾기」가 가운데서 밀리거나 넓은 제본 골 그림자도 뺍니다(펼침 스캔). 한 쪽짜리 문서의 가운데 세로 띠는 내용으로 남깁니다."
 }
