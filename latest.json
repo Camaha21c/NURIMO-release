@@ -1,5 +1,5 @@
 {
-    "version":  "1.50.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.50.0/NURIMO-1.50.0-setup.exe",
-    "notes":  "PDF 편집창에 「가리기」가 생겼습니다 — 검게 칠한 쪽은 그림으로 바뀌어 칸 밑의 글이 파일에서 지워집니다."
+    "version":  "1.50.1",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.50.1/NURIMO-1.50.1-setup.exe",
+    "notes":  "가린 쪽이 흑백이면 회색으로 담아 파일이 절반 가까이 작아집니다."
 }
