@@ -1,5 +1,5 @@
 {
-    "version":  "1.48.6",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.6/NURIMO-1.48.6-setup.exe",
-    "notes":  "PDF 편집창에서 가로로 긴 쪽(슬라이드·펼침)을 크게 볼 때 쓸데없이 뜨던 가로 스크롤 막대를 없앴습니다."
+    "version":  "1.48.7",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.48.7/NURIMO-1.48.7-setup.exe",
+    "notes":  "PDF 편집창에 끝이 잘린(받다 끊긴) 그림을 끼우면 읽힌 부분만 끼웠다고 알려 줍니다."
 }
