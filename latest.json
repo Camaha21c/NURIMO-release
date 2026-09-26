@@ -1,5 +1,5 @@
 {
-    "version":  "1.54.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.54.0/NURIMO-1.54.0-setup.exe",
-    "notes":  "PDF 편집·합치기·추출·지우기에서 입력 칸이 입력할 수 있는 채로 옮겨집니다. 여러 쪽에 걸친 입력 칸이 있는 PDF 에서 지우거나 가린 쪽의 원래 내용이 파일에 남던 문제를 고쳤습니다(1.50.0~1.53.4 로 저장한 파일은 다시 저장해 주세요). 가린 쪽·미리보기·그림으로 내보내기에 주석과 입력값이 그대로 그려집니다."
+    "version":  "1.54.1",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.54.1/NURIMO-1.54.1-setup.exe",
+    "notes":  "PDF 편집창 큰 보기가 화면 픽셀 그대로 또렷하게 그려집니다(전에는 조금 흐릿했습니다). 「원본 크기」(Ctrl+1)로 스캔·사진을 원본 픽셀 그대로 볼 수 있습니다."
 }
