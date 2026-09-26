@@ -1,5 +1,5 @@
 {
-    "version":  "1.60.3",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.60.3/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.60.3 — 편집창 메뉴 단추 아래 여유를 늘렸다(스크롤 칸 위아래 여백 4 → 2)"
+    "version":  "1.61.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.61.0/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "그림 편집 창에서 인쇄할 때 미리보기가 보이는 NURIMO 인쇄 창이 열립니다(프린터·인쇄 설정·매수·방향·크기·여백)."
 }
