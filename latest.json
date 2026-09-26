@@ -1,5 +1,5 @@
 {
-    "version":  "1.58.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.58.0/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.58.0 — PDF 편집창에서 고친 모양 그대로 인쇄한다"
+    "version":  "1.58.1",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.58.1/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.58.1 — 그림·PDF 편집창이 다른 창을 늘 가리지 않는다(맨 위는 처음 한 번만)"
 }
