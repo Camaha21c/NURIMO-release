@@ -1,5 +1,5 @@
 {
-    "version":  "1.61.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.61.0/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "그림 편집 창에서 인쇄할 때 미리보기가 보이는 NURIMO 인쇄 창이 열립니다(프린터·인쇄 설정·매수·방향·크기·여백)."
+    "version":  "1.62.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.62.0/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "PDF 편집 창 인쇄도 미리보기가 있는 NURIMO 인쇄 창으로 열립니다(쪽 범위·홀짝·역순·양면·한 부씩). 인쇄 창에 치수 눈금과 프린터 상태가 보입니다."
 }
