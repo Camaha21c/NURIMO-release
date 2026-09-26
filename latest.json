@@ -1,5 +1,5 @@
 {
-    "version":  "1.60.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.60.1/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "그림 편집 창에서 앞·뒤 사진으로 넘길 때 화면이 꺼졌다 켜지지 않고 같은 창에서 바뀝니다."
+    "version":  "1.60.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.60.2/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.60.2 — 편집창 메뉴 아래 묶음 이름(실행 취소·고르기·그림 크기·내보내기 등)을 없앴다"
 }
