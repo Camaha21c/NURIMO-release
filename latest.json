@@ -1,5 +1,5 @@
 {
-    "version":  "1.53.3",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.53.3/NURIMO-1.53.3-setup.exe",
-    "notes":  "설치한 NURIMO 만 Windows 자동 시작·탐색기 메뉴·연결 프로그램을 적습니다. 복사해 띄운 실행 파일이 이 설정을 가져가던 것을 막았습니다."
+    "version":  "1.53.4",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.53.4/NURIMO-1.53.4-setup.exe",
+    "notes":  "그림 편집 창 제목 줄 왼쪽의 아이콘이 다시 보입니다."
 }
