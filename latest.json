@@ -1,5 +1,5 @@
 {
-    "version":  "1.55.2",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.55.2/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.55.2 — 새 판 확인 안내를 사실대로(식별자 없이 목록만 묻는다)"
+    "version":  "1.56.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.56.0/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "그림 편집 창에서 같은 폴더의 앞·뒤 사진으로 넘길 수 있습니다(← → · Space · Backspace · 양옆 단추)."
 }
