@@ -9,7 +9,9 @@ Windows 통합 생산성 프로그램입니다. 캡처 · 이미지 · PDF · �
 
 ## 받기
 
-[**Releases**](../../releases/latest) 에서 받습니다.
+**바로 받기** — [NURIM.NURIMO-win-Setup.exe](https://github.com/Camaha21c/NURIMO-release/releases/latest/download/NURIM.NURIMO-win-Setup.exe) (늘 가장 새 판)
+
+바뀐 내용은 [**Releases**](../../releases/latest) 에서 봅니다.
 
 | | |
 |---|---|
