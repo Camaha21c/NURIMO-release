@@ -1,5 +1,5 @@
 {
-    "version":  "1.56.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.56.0/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "그림 편집 창에서 같은 폴더의 앞·뒤 사진으로 넘길 수 있습니다(← → · Space · Backspace · 양옆 단추)."
+    "version":  "1.57.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.57.0/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "그림 편집 창에서 크게 본 그림을 선택 도구로 빈 곳을 끌어 옮길 수 있습니다."
 }
