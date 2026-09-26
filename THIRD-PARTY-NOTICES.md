@@ -2,7 +2,7 @@
 
 NURIMO 는 아래의 공개 소프트웨어를 사용합니다. 각 구성 요소의 저작권은 해당 저작권자에게 있습니다.
 
-> **확인 시점**: 2026-09-17 · **NURIMO 판**: 1.41.1
+> **확인 시점**: 2026-09-17 · **NURIMO 판**: 1.47.1
 >
 > 라이선스는 **버전을 올릴 때마다 다시 확인한다**. ImageSharp 처럼 도중에 라이선스가
 > 바뀐 전례가 있다(PLAN.md 17장).
@@ -28,13 +28,14 @@ NURIMO 는 아래의 공개 소프트웨어를 사용합니다. 각 구성 요�
 | HarfBuzz | (HarfBuzzSharp 내장) | MIT | © HarfBuzz Project Authors |
 | H.NotifyIcon.Wpf | 2.4.1 | MIT | © Konstantin S., Philipp Sumi |
 | Serilog | 4.4.0 | Apache-2.0 | © Serilog Contributors |
+| Velopack | 1.2.158 | MIT | © Velopack Ltd. |
 
 ## 만들 때만 쓰는 것 (배포본에 들어가지 않음)
 
 | 구성 요소 | 버전 | 라이선스 |
 |---|---|---|
 | xUnit | 2.9.3 | Apache-2.0 |
-| Inno Setup | 6.7.3 | Inno Setup License |
+| vpk (Velopack CLI) | 1.2.158 | MIT |
 
 ## 함께 배포하지 않는 것
 
