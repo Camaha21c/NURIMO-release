@@ -1,5 +1,5 @@
 {
-    "version":  "1.53.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.53.1/NURIMO-1.53.1-setup.exe",
-    "notes":  "아이콘을 새로 다듬었습니다 — 홈(파랑 N), PDF 편집(빨강 문서), 이미지 편집(초록 그림)이 왼쪽 위 파랑 모서리와 N 으로 한 가족처럼 보입니다."
+    "version":  "1.53.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.53.2/NURIMO-1.53.2-setup.exe",
+    "notes":  "편집창 제목에 파일 이름이 나옵니다 — 「PDF 편집 — 이름」·「그림 편집 — 이름」. 그림 편집창 제목 줄에 아이콘이 붙고, 첫 도구가 「선택」입니다."
 }
