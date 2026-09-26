@@ -1,5 +1,5 @@
 {
-    "version":  "1.58.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.58.1/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.58.1 — 그림·PDF 편집창이 다른 창을 늘 가리지 않는다(맨 위는 처음 한 번만)"
+    "version":  "1.59.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.59.0/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.59.0 — PDF 편집창 단추를 엑셀처럼 위쪽 탭 메뉴로 모았다"
 }
