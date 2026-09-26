@@ -1,5 +1,5 @@
 {
-    "version":  "1.55.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.55.1/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.55.1 — 자동 업데이트 확인용 판(기능은 1.55.0 과 같다)"
+    "version":  "1.55.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.55.2/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.55.2 — 새 판 확인 안내를 사실대로(식별자 없이 목록만 묻는다)"
 }
