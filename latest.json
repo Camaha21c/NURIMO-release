@@ -1,5 +1,5 @@
 {
-    "version":  "1.54.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.54.1/NURIMO-1.54.1-setup.exe",
-    "notes":  "PDF 편집창 큰 보기가 화면 픽셀 그대로 또렷하게 그려집니다(전에는 조금 흐릿했습니다). 「원본 크기」(Ctrl+1)로 스캔·사진을 원본 픽셀 그대로 볼 수 있습니다."
+    "version":  "1.54.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.54.2/NURIMO-1.54.2-setup.exe",
+    "notes":  "PDF 편집창 오른쪽 목록 미리보기도 칸 픽셀 그대로 또렷하게 그립니다."
 }
