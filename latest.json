@@ -1,5 +1,5 @@
 {
-    "version":  "1.67.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.67.0/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.67.0 — 화면 전체 녹화는 마우스가 있는 모니터만(기본) · 녹화 키프레임 2초로 용량 1/4"
+    "version":  "1.68.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.68.0/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.68.0 — 녹화 중 펜 · 클릭 표시 · 일시정지"
 }
