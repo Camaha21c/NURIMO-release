@@ -1,5 +1,5 @@
 {
-    "version":  "1.63.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.63.0/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "인쇄 창 설정을 한 줄로 모아 스크롤 없이 보입니다. 인쇄 단추에 나갈 장 수가 보이고, 프린터·방향·크기·여백·양면을 다음에도 기억합니다."
+    "version":  "1.64.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.64.0/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.64.0 — 홈을 「무엇에서 시작하나」 네 묶음으로 · 줄마다 누르는 법 → 결과 · 누르면 그 화면으로"
 }
