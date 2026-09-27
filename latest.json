@@ -1,5 +1,5 @@
 {
-    "version":  "1.68.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.68.1/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.68.1 — 결과 폴더로 비켜 간 것을 「다 됐습니다」 한 장으로 알림"
+    "version":  "1.68.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.68.2/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.68.2 — 녹화 막대 「✎ 펜」·「3초 뒤 사라짐」을 켜짐/꺼짐에 잇기(화면 낭독기·자동화 토글에도 먹게, 169장)"
 }
