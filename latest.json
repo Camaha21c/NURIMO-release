@@ -1,5 +1,5 @@
 {
-    "version":  "1.64.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.64.1/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.64.1 — 홈 줄을 어절 단위로 줄바꿈 · 결과 문구 다듬기(한 글자만 다음 줄로 떨어지지 않게)"
+    "version":  "1.64.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.64.2/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "그림 편집 창 오른쪽 위의 「닫기」 단추를 없앴습니다. 창은 제목 줄 ✕ 나 Esc 로 닫습니다."
 }
