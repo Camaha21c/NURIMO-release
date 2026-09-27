@@ -1,5 +1,5 @@
 {
-    "version":  "1.64.2",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.64.2/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "그림 편집 창 오른쪽 위의 「닫기」 단추를 없앴습니다. 창은 제목 줄 ✕ 나 Esc 로 닫습니다."
+    "version":  "1.65.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.65.0/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.65.0 — PDF 편집창에서 글자를 끌어 고르고 복사한다(텍스트 선택)"
 }
