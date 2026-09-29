@@ -1,5 +1,5 @@
 {
-    "version":  "1.75.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.75.1/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.75.1 — 설정에 PDF·그림·영상 기본 앱 상태와 Windows 기본 앱 화면 단추"
+    "version":  "1.75.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.75.2/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.75.2 — 영역 캡처 자동선택이 NURIMO 편집창·고정 그림도 잡음"
 }
