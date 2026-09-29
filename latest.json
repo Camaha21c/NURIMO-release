@@ -1,5 +1,5 @@
 {
-    "version":  "1.74.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.74.0/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.74.0 — 영상 창 전체 화면(216장)"
+    "version":  "1.74.1",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.74.1/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "인쇄 창을 조금 키워, 「쪽마다 따로」로 여백 네 칸을 펼쳐도 설정이 스크롤 없이 한눈에 보입니다."
 }
