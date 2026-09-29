@@ -1,5 +1,5 @@
 {
-    "version":  "1.72.6",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.72.6/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.72.6 — 단축키 경고가 왼쪽 「단축키」 화면을 가리킴"
+    "version":  "1.73.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.73.0/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "인쇄 창 미리보기에 네 여백 수치(mm)가 보입니다. 여백 칸 옆 ▲▼ 단추나 ↑↓ 키로 1mm씩 바꿀 수 있습니다."
 }
