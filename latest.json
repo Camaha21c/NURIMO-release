@@ -1,5 +1,5 @@
 {
-    "version":  "1.74.3",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.74.3/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.74.3 — 영상 창 재생 중 단추가 밀리던 것 고침(223장)"
+    "version":  "1.74.4",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.74.4/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.74.4 — 화면 낭독기로 켜고 끈 체크 상자도 설정이 저장됨"
 }
