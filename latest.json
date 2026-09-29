@@ -1,5 +1,5 @@
 {
-    "version":  "1.78.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.78.0/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.78.0 — 작업 기록 탭 · 클립보드 합침 · 줄 단추 복사·폴더 열기·휴지통으로"
+    "version":  "1.78.1",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.78.1/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.78.1 — 작업 기록 「복사」가 큰 그림에서 창을 멈추지 않게"
 }
