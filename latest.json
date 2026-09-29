@@ -1,5 +1,5 @@
 {
-    "version":  "1.72.3",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.72.3/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.72.3 — 폴더가 지워진 감시 규칙이 끝없이 다시 열리던 것 고침"
+    "version":  "1.72.4",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.72.4/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.72.4 — 강제로 꺼져 남은 .partial 을 다음에 켤 때 치움"
 }
