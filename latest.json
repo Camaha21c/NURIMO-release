@@ -1,5 +1,5 @@
 {
-    "version":  "1.80.1",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.1/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.80.1 — PDF 큰 보기 글자를 1.79.1 때로 되돌림 · 다른 이름으로 단추는 그대로"
+    "version":  "1.80.2",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.2/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.80.2 — PDF 큰 보기: 저배율 화면은 R·G·B 로 나눠 또렷하게(진하게 없음)"
 }
