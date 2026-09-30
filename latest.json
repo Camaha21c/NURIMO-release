@@ -1,5 +1,5 @@
 {
-    "version":  "1.80.3",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.3/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.80.3 — PDF 편집창 쪽 목록 폭 200 · 돌리기·지우기는 오른쪽 클릭 메뉴로"
+    "version":  "1.80.4",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.4/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.80.4 — PDF 큰 보기 글자가 희미해 보이지 않게(가장자리 덜 펴기 + 약한 대비)"
 }
