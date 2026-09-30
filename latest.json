@@ -1,5 +1,5 @@
 {
-    "version":  "1.80.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.0/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.80.0 — PDF 편집창 「다른 이름으로」 · PDF 글자 또렷하게"
+    "version":  "1.80.1",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.1/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.80.1 — PDF 큰 보기 글자를 1.79.1 때로 되돌림 · 다른 이름으로 단추는 그대로"
 }
