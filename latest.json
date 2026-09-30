@@ -1,5 +1,5 @@
 {
-    "version":  "1.80.5",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.5/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.80.5 — PDF 편집창 배율 칸(직접 입력 + 드롭다운) · 배율을 실제 배율로"
+    "version":  "1.80.6",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.6/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.80.6 — PDF 그리기를 전용 스레드·열어 둔 문서로(글 문서 미리보기 약 25배 빠름) · 타사 고지에 PDFium 안의 구성 요소"
 }
