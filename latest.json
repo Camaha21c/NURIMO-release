@@ -1,5 +1,5 @@
 {
-    "version":  "1.80.6",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.6/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.80.6 — PDF 그리기를 전용 스레드·열어 둔 문서로(글 문서 미리보기 약 25배 빠름) · 타사 고지에 PDFium 안의 구성 요소"
+    "version":  "1.80.7",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.7/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.80.7 — 설정 「로그 폴더 열기」 · 문제 기록(오류 종류만) · 캡처 안쪽 정리"
 }
