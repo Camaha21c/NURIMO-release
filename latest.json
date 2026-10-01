@@ -1,5 +1,5 @@
 {
-    "version":  "1.80.7",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.7/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.80.7 — 설정 「로그 폴더 열기」 · 문제 기록(오류 종류만) · 캡처 안쪽 정리"
+    "version":  "1.80.8",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.80.8/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.80.8 — 세로로 찍은 사진이 그림 편집창에서 바로 서서 열림(표시가 보인 자리에 저장) · 그림 편집 Core 0단계 끝: 내보내기(BMP·TIFF 포함)·자동 저장·복구·큰 그림 재기(271장)"
 }
