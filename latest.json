@@ -1,5 +1,5 @@
 {
-    "version": "1.82.2",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.82.2/NURIM.NURIMO-win-Setup.exe",
-    "notes": "1.82.2 — 그림 편집(새): 레이어가 남지 않은 채 떠날 때 한 번 물음 · PDF 메모(쪽지)"
+    "version": "1.83.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.83.0/NURIM.NURIMO-win-Setup.exe",
+    "notes": "1.83.0 — 기록 보존 기간: 설정에서 7·30·90일을 고르면 그보다 오래된 작업 기록과 복사한 것을 스스로 지움(기본은 계속 보관 · 만든 파일과 고정한 것은 남김)"
 }
