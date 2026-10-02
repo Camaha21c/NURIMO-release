@@ -1,5 +1,5 @@
 {
-    "version": "1.82.0",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.82.0/NURIM.NURIMO-win-Setup.exe",
-    "notes": "1.82.0 — 「스크롤 캡처」(Ctrl+Alt+Shift+PageDown): 굴릴 곳을 끌고 굴리는 대로 길게 이어 찍음 · 다시 누르면 저장 · PDF 형광펜·글상자·그리기 · 그림 편집(새) 미리보기"
+    "version": "1.82.1",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.82.1/NURIM.NURIMO-win-Setup.exe",
+    "notes": "1.82.1 — 스크롤 캡처: 이은 그림에서 스크롤 막대 자국을 잘라 냄 · PDF 쪽 목록 미리보기에 표시 · 암호 걸린 PDF 열기 · 그림 편집(새) 레이어 목록"
 }
