@@ -1,5 +1,5 @@
 {
-    "version": "1.81.4",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.81.4/NURIM.NURIMO-win-Setup.exe",
-    "notes": "1.81.4 — 그림 편집창 「글자 복사」(그림 속 글자를 읽어 확인한 뒤 복사) · PDF 찾기(Ctrl+F) · PDF 책갈피·링크"
+    "version": "1.81.5",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.81.5/NURIM.NURIMO-win-Setup.exe",
+    "notes": "1.81.5 — 「영역 글자 복사」(Ctrl+Alt+Shift+Print Screen): 끌어 고른 곳의 글을 읽어 확인한 뒤 복사"
 }
