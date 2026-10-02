@@ -1,5 +1,5 @@
 {
-    "version": "1.81.2",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.81.2/NURIM.NURIMO-win-Setup.exe",
-    "notes": "1.81.2 — 설정 「찍은 그림을 파일로 저장」(끄면 클립보드에만) · 캡처 저장 형식 PNG/JPG · PDF 편집창 쪽 넘김이 또렷하게"
+    "version": "1.81.3",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.81.3/NURIM.NURIMO-win-Setup.exe",
+    "notes": "1.81.3 — 「이 모니터 캡처」(Ctrl+Alt+Print Screen) · 캡처에 마우스 포인터 넣기 · 찍기 전 기다리기 · PDF 편집 중 꺼져도 이어서 고치기"
 }
