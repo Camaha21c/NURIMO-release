@@ -1,5 +1,5 @@
 {
-    "version": "1.84.0",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.84.0/NURIM.NURIMO-win-Setup.exe",
-    "notes": "1.84.0 — 「화면 자」: 트레이 메뉴에서 열어 끌면 크기를 재기만 함(찍지 않음 · Ctrl+C 로 크기 복사) · 그림 편집(새) 레이어 복제·합치기"
+    "version": "1.85.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.85.0/NURIM.NURIMO-win-Setup.exe",
+    "notes": "1.85.0 — 그림 편집(새): 옮기기 · 변형 · 글자 레이어 · 보정을 고른 레이어에만 / PDF: 원래 있던 그림 지우기·옮기기 · 글 고쳐 쓰기"
 }
