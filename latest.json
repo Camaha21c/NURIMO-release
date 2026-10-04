@@ -1,5 +1,5 @@
 {
-    "version": "1.86.0",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.86.0/NURIM.NURIMO-win-Setup.exe",
-    "notes": "1.86.0 — 그림 편집(새): 글자 레이어 변형(글자로 남음) · 줄 간격·자간 · 도형 레이어 / PDF: 깨진 입력 칸이 있어도 저장 · 꺼 둔 층 숨김 유지"
+    "version": "1.87.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.87.0/NURIM.NURIMO-win-Setup.exe",
+    "notes": "1.87.0 — 그림 편집(새): 레이어 그룹 · 「표시」 탭(화살표·번호·말풍선 · 형광펜·스포트라이트 · 모자이크·흐리게·지우개·돋보기 · 이모지·커서·그림 넣기) · 띠 빼기·배경 / PDF: 그림 귀퉁이로 크기 바꾸기"
 }
