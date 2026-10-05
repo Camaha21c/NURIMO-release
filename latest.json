@@ -1,5 +1,5 @@
 {
-    "version": "1.88.0",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.88.0/NURIM.NURIMO-win-Setup.exe",
-    "notes": "1.88.0 — 그림을 열면 새 그림 편집창이 뜹니다(연결 프로그램 · 오른쪽 클릭 · 캡처 뒤) · 파란 단추 「저장하고 닫기」 · 예전 창은 설정 → 「원래 그림 편집창 쓰기」"
+    "version": "1.89.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.89.0/NURIM.NURIMO-win-Setup.exe",
+    "notes": "영역 캡처가 키를 누른 순간의 화면을 찍습니다 — 열린 드롭다운·메뉴가 그대로 남습니다"
 }
