@@ -1,5 +1,5 @@
 {
-    "version": "1.87.0",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.87.0/NURIM.NURIMO-win-Setup.exe",
-    "notes": "1.87.0 — 그림 편집(새): 레이어 그룹 · 「표시」 탭(화살표·번호·말풍선 · 형광펜·스포트라이트 · 모자이크·흐리게·지우개·돋보기 · 이모지·커서·그림 넣기) · 띠 빼기·배경 / PDF: 그림 귀퉁이로 크기 바꾸기"
+    "version": "1.87.1",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.87.1/NURIM.NURIMO-win-Setup.exe",
+    "notes": "화면 자의 안내가 화면을 가리지 않습니다 — 3초 뒤 스스로 사라지고, 복사하는 법은 잰 숫자 옆에"
 }
