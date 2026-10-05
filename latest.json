@@ -1,5 +1,5 @@
 {
-    "version": "1.87.2",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.87.2/NURIM.NURIMO-win-Setup.exe",
-    "notes": "작업 기록 탭을 누르면 첫 줄이 바로 보입니다 — 위 20줄을 먼저 그리고 나머지는 이어서 채웁니다"
+    "version": "1.88.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.88.0/NURIM.NURIMO-win-Setup.exe",
+    "notes": "1.88.0 — 그림을 열면 새 그림 편집창이 뜹니다(연결 프로그램 · 오른쪽 클릭 · 캡처 뒤) · 파란 단추 「저장하고 닫기」 · 예전 창은 설정 → 「원래 그림 편집창 쓰기」"
 }
