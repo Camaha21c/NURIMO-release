@@ -1,5 +1,5 @@
 {
-    "version": "1.89.0",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.89.0/NURIM.NURIMO-win-Setup.exe",
-    "notes": "영역 캡처가 키를 누른 순간의 화면을 찍습니다 — 열린 드롭다운·메뉴가 그대로 남습니다"
+    "version": "1.90.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.90.0/NURIM.NURIMO-win-Setup.exe",
+    "notes": "작업 기록의 「복사한 것」 탭이 「글자 복사」와 「그림 복사」로 나뉩니다 — 캡처한 그림은 「그림 캡처」 탭에만 나옵니다"
 }
