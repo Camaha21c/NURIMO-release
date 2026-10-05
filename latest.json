@@ -1,5 +1,5 @@
 {
-    "version": "1.87.1",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.87.1/NURIM.NURIMO-win-Setup.exe",
-    "notes": "화면 자의 안내가 화면을 가리지 않습니다 — 3초 뒤 스스로 사라지고, 복사하는 법은 잰 숫자 옆에"
+    "version": "1.87.2",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.87.2/NURIM.NURIMO-win-Setup.exe",
+    "notes": "작업 기록 탭을 누르면 첫 줄이 바로 보입니다 — 위 20줄을 먼저 그리고 나머지는 이어서 채웁니다"
 }
