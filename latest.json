@@ -1,5 +1,5 @@
 {
-    "version": "1.92.1",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.92.1/NURIM.NURIMO-win-Setup.exe",
-    "notes": "복사한 그림도 작업 기록에서 그림 편집창으로 바로 엽니다"
+    "version":  "1.93.0",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.93.0/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.93.0 — PDF 나눠 저장: 편집창 「정리 → 나눠 저장…」(n쪽씩 · 적은 범위대로 여러 파일로) · 오른쪽 클릭 「파일변환 → 2쪽씩 나눠 저장」(410 · 417장)"
 }
