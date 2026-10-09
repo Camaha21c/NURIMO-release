@@ -1,5 +1,5 @@
 {
-    "version":  "1.93.2",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.93.2/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.93.2 — PDF 오른쪽 클릭 「나누기」가 1쪽씩 · 2쪽씩 · 3쪽씩 나눠 저장 셋으로(421장)"
+    "version":  "1.93.3",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.93.3/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.93.3 — 작업 기록 줄도 누른 메뉴 이름으로(「3쪽씩 나눠 저장 · 3개 만듦」) — 알림과 같은 이름(423장)"
 }
