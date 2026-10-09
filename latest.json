@@ -1,5 +1,5 @@
 {
-    "version":  "1.93.0",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.93.0/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.93.0 — PDF 나눠 저장: 편집창 「정리 → 나눠 저장…」(n쪽씩 · 적은 범위대로 여러 파일로) · 오른쪽 클릭 「파일변환 → 2쪽씩 나눠 저장」(410 · 417장)"
+    "version":  "1.93.1",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.93.1/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.93.1 — PDF 오른쪽 클릭에 「나누기」 묶음: 합치기 아래에 「쪽마다 따로 저장(분할)」 · 「2쪽씩 나눠 저장」(420장)"
 }
