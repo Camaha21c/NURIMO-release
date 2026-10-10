@@ -1,5 +1,5 @@
 {
-    "version":  "1.93.3",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.93.3/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.93.3 — 작업 기록 줄도 누른 메뉴 이름으로(「3쪽씩 나눠 저장 · 3개 만듦」) — 알림과 같은 이름(423장)"
+    "version": "1.94.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.94.0/NURIM.NURIMO-win-Setup.exe",
+    "notes": "그림 편집(새)에 「문서 펴기」 — 비스듬히 찍힌 문서·전표·화면을 자동으로 잡아 반듯하게 폅니다(그림 탭 → 문서 펴기 → 어긋난 모서리는 손잡이로 맞추고 Enter)."
 }
