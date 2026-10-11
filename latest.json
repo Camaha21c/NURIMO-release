@@ -1,5 +1,5 @@
 {
-    "version": "1.94.0",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.94.0/NURIM.NURIMO-win-Setup.exe",
-    "notes": "그림 편집(새)에 「문서 펴기」 — 비스듬히 찍힌 문서·전표·화면을 자동으로 잡아 반듯하게 폅니다(그림 탭 → 문서 펴기 → 어긋난 모서리는 손잡이로 맞추고 Enter)."
+    "version": "1.94.1",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.94.1/NURIM.NURIMO-win-Setup.exe",
+    "notes": "「문서 펴기」의 자동 감지를 고쳤습니다 — 1.94.0 은 진짜 사진에서 문서를 거의 못 찾았습니다. 이제 나무 책상 위 영수증·명세표, 사진 양옆에 걸친 긴 전표, 손에 든 메모지를 잡습니다(색이 둘로 나뉜 문서나 파일 속 문서는 아직 손잡이로 맞춰야 합니다)."
 }
