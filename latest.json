@@ -1,5 +1,5 @@
 {
-    "version": "1.95.0",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.95.0/NURIM.NURIMO-win-Setup.exe",
-    "notes": "그림 편집(새)에 「문서 또렷하게」 — 편 문서의 그림자와 누런 빛을 걷어 바탕을 희게, 글자를 또렷하게 합니다(그림 탭 → 문서 펴기 → 문서 또렷하게). 문서·전표 사진용이라 색 면이 넓은 문서나 사진은 색이 옅어집니다."
+    "version": "1.96.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.96.0/NURIM.NURIMO-win-Setup.exe",
+    "notes": "「문서 펴기」가 말린 종이를 잡습니다 — 끝이 들려 가장자리가 휜 전표·영수증을 휜 모양대로 잡아 반듯하게 폅니다(자동으로 잡고, 변 가운데 손잡이를 끌어 휘게 고칠 수 있습니다). 변 가운데 손잡이는 이제 변을 통째로 옮기지 않고 휘게 합니다. 「문서 펴기」·「문서 또렷하게」 단추에 아이콘이 생겼습니다."
 }
