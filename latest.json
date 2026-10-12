@@ -1,5 +1,5 @@
 {
-    "version": "1.97.0",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.97.0/NURIM.NURIMO-win-Setup.exe",
-    "notes": "「문서 펴기」에 모서리 돋보기 — 손잡이를 끄는 동안 그 자리를 크게 보여 주는 동그란 돋보기가 옆에 뜹니다. 손잡이가 커서에 가려도 어디를 가리키는지 보여, 모서리를 종이 귀에 정확히 맞추기 쉽습니다(놓으면 사라집니다)."
+    "version": "1.98.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.98.0/NURIM.NURIMO-win-Setup.exe",
+    "notes": "홈에 「영상 편집(시험)」 — 타임라인이 있는 새 영상 편집기를 엽니다(나누기 · 이어 붙이기 · 글자 · 도형 · 효과 · 영상으로 내보내기 — 원본은 그대로). 처음 열 때 FFmpeg(LGPL · 약 77MB)을 받을지 묻고, 「예」일 때만 받습니다. 아직 시험판입니다 — 영상 파일을 열 때 뜨는 「NURIMO 영상」 창(자르기 · 변환)은 전과 같습니다."
 }
