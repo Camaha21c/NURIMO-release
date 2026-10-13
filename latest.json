@@ -1,5 +1,5 @@
 {
-    "version": "1.98.1",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.98.1/NURIM.NURIMO-win-Setup.exe",
-    "notes": "「영상 편집(시험)」의 메뉴를 홈 · 편집 · 소리 · 그림 탭으로 나눴습니다 — 홈에는 자주 쓰는 것만 남겼습니다(열기 · 재생 · 나누기 · 지우기 · 되돌리기 · 영상으로 내보내기). 잘라내기 · 속도 · 정지 화면 · 복사 · 옮기기는 「편집」 탭, 소리 끄기 · 소리 크기는 「소리」 탭에 있습니다. 단축키는 전과 같습니다."
+    "version": "1.99.0",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.0/NURIM.NURIMO-win-Setup.exe",
+    "notes": "영상 파일을 열면 새 영상 편집기가 뜹니다 — 타임라인에서 나누기 · 이어 붙이기 · 글자 · 도형 · 영상으로 내보내기(처음 한 번 FFmpeg 약 77MB를 받을지 묻습니다). 영상 변환은 트레이 메뉴의 「영상 변환」에 있습니다. 예전 그림 편집창은 없앴습니다 — 그림은 늘 새 그림 편집창으로 열립니다(설정의 「원래 그림 편집창 쓰기」 칸도 없어졌습니다)."
 }
