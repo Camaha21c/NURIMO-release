@@ -1,5 +1,5 @@
 {
-    "version": "1.99.2",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.2/NURIM.NURIMO-win-Setup.exe",
-    "notes": "영상 파일의 「연결 프로그램」 이름을 「NURIMO 영상 편집」으로 맞췄습니다(그림 · PDF 와 같은 꼴). 여는 창과 기본 앱 설정은 그대로입니다."
+    "version": "1.99.3",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.3/NURIM.NURIMO-win-Setup.exe",
+    "notes": "영상 편집 창의 「그림」 탭을 넣기 · 그림 · 효과로 나눴습니다 — 글자 · 도형 · 겹쳐 넣기 · 장면 저장은 「넣기」, 색 · 가리기 · 움직임 · 서서히 바뀌기는 「효과」 탭에 있습니다. 단축키와 동작은 전과 같습니다."
 }
