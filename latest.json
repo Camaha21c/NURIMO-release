@@ -1,5 +1,5 @@
 {
-    "version": "1.99.3",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.3/NURIM.NURIMO-win-Setup.exe",
-    "notes": "영상 편집 창의 「그림」 탭을 넣기 · 그림 · 효과로 나눴습니다 — 글자 · 도형 · 겹쳐 넣기 · 장면 저장은 「넣기」, 색 · 가리기 · 움직임 · 서서히 바뀌기는 「효과」 탭에 있습니다. 단축키와 동작은 전과 같습니다."
+    "version": "1.99.4",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.4/NURIM.NURIMO-win-Setup.exe",
+    "notes": "보안 수정 — .NET 실행 환경을 고친 판(10.0.13)으로 올렸습니다(PDF 처리에 쓰이는 암호 부품의 서비스 거부 취약점 CVE-2026-84008 · CVE-2026-70162). 화면 낭독기 · 음성 조작으로 켜고 끄는 단추(영상 편집의 속도 · 색 조정 · 가리기 …, 그림 편집의 굵게 · 잠금 · 표시 크기 …, PDF 편집의 「쪽 | 책갈피」)를 눌러도 동작하지 않던 문제를 고쳤습니다. 마우스 · 키보드로 쓰실 때는 달라지는 것이 없습니다."
 }
