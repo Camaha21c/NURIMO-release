@@ -1,5 +1,5 @@
 {
-    "version": "1.99.5",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.5/NURIM.NURIMO-win-Setup.exe",
-    "notes": "바쁜 PC 에서 녹화할 때 소리가 화면보다 1초 넘게 늦게 담기던 문제를 고쳤습니다. 홈 화면을 기능별 카드와 분류 칩(파일 · 화면 · 복사 · 반복 · 인터넷)으로 바꿨습니다. 「유튜브 받기」 창을 더했습니다 — 주소를 넣고 화질(최고 · 1080p · 720p · 소리만 MP3)을 고르면 결과 폴더에 받습니다. 처음 쓸 때 yt-dlp 를 받기 전에 묻고, 공식 지문과 맞을 때만 씁니다. 본인 영상 · CC · 퍼블릭 도메인 · 허락받은 영상만 받아 주세요. 화면 낭독기에서 칩을 고른 뒤 카드의 「열기」가 안 보이던 문제도 고쳤습니다."
+    "version": "1.99.6",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.6/NURIM.NURIMO-win-Setup.exe",
+    "notes": "유튜브 받기 창의 「이 창에서 받은 것」 줄마다 「재생」 · 「폴더 열기」 단추를 더했습니다. yt-dlp 를 처음 받을 때 묻는 창의 글을 짧게 줄였습니다."
 }
