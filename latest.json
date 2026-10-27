@@ -1,5 +1,5 @@
 {
-    "version": "1.99.7",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.7/NURIM.NURIMO-win-Setup.exe",
-    "notes": "영역 캡처 화면 위쪽에 모드 막대를 더했습니다 — 창 · 이 모니터 · 전체 화면 · 길게 찍기 · 글자 복사 · 녹화로 바로 바꿀 수 있고, 오른쪽 X 로 취소합니다."
+    "version": "1.99.8",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.8/NURIM.NURIMO-win-Setup.exe",
+    "notes": "영역 캡처 막대의 「창」을 누르면 이제 바로 찍지 않고, 마우스를 올린 창을 골라 누르면 그 창을 찍습니다."
 }
