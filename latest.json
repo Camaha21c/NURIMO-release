@@ -1,5 +1,5 @@
 {
-    "version": "1.99.6",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.6/NURIM.NURIMO-win-Setup.exe",
-    "notes": "유튜브 받기 창의 「이 창에서 받은 것」 줄마다 「재생」 · 「폴더 열기」 단추를 더했습니다. yt-dlp 를 처음 받을 때 묻는 창의 글을 짧게 줄였습니다."
+    "version": "1.99.7",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.7/NURIM.NURIMO-win-Setup.exe",
+    "notes": "영역 캡처 화면 위쪽에 모드 막대를 더했습니다 — 창 · 이 모니터 · 전체 화면 · 길게 찍기 · 글자 복사 · 녹화로 바로 바꿀 수 있고, 오른쪽 X 로 취소합니다."
 }
