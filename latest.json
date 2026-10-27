@@ -1,5 +1,5 @@
 {
-    "version": "1.99.8",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.8/NURIM.NURIMO-win-Setup.exe",
-    "notes": "영역 캡처 막대의 「창」을 누르면 이제 바로 찍지 않고, 마우스를 올린 창을 골라 누르면 그 창을 찍습니다."
+    "version": "1.99.9",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.9/NURIM.NURIMO-win-Setup.exe",
+    "notes": "영상 편집기가 영상을 열 때 창 크기를 영상 비율에 맞춥니다 — 세로 영상도 크게 보입니다. 창을 직접 바꾼 크기나 최대화는 그대로 둡니다."
 }
