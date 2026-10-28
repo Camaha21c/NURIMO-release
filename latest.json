@@ -1,5 +1,5 @@
 {
-    "version": "1.99.11",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.11/NURIM.NURIMO-win-Setup.exe",
-    "notes": "큰 영역을 그래픽카드 인코더로 녹화할 때 마지막 소리(0.3~0.6초)가 잘리던 문제를 고쳤습니다."
+    "version": "1.99.12",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.12/NURIM.NURIMO-win-Setup.exe",
+    "notes": "영역을 고르는 화면이 막 뜬 직후 빠르게 끌면 시작점이 밀리거나 다른 영역이 찍힐 수 있던 문제를 고쳤습니다."
 }
