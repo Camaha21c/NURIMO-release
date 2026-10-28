@@ -1,5 +1,5 @@
 {
-    "version": "1.99.10",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.10/NURIM.NURIMO-win-Setup.exe",
-    "notes": "녹화할 때 컴퓨터 소리가 화면과 맞게 들어갑니다(전에는 소리가 0.1~0.2초 늦거나 이르게 들어갔습니다). 녹화를 멈출 때 소리 끝이 잘리지 않습니다."
+    "version": "1.99.11",
+    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.11/NURIM.NURIMO-win-Setup.exe",
+    "notes": "큰 영역을 그래픽카드 인코더로 녹화할 때 마지막 소리(0.3~0.6초)가 잘리던 문제를 고쳤습니다."
 }
