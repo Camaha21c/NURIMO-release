@@ -1,5 +1,5 @@
 {
-    "version": "1.99.12",
-    "url": "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.12/NURIM.NURIMO-win-Setup.exe",
-    "notes": "영역을 고르는 화면이 막 뜬 직후 빠르게 끌면 시작점이 밀리거나 다른 영역이 찍힐 수 있던 문제를 고쳤습니다."
+    "version":  "1.99.13",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.13/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "그림 편집 · PDF 편집 · 영상 편집 창과 본 창에 오른쪽 클릭 메뉴가 생겼습니다 — 되돌리기 · 복사 · 돌리기 · 나누기 · 캡처처럼 자주 쓰는 일을 누른 자리에서 바로 고릅니다."
 }
