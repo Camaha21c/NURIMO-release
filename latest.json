@@ -1,5 +1,5 @@
 {
-    "version":  "1.99.22",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.22/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.99.22 — 영상 편집기가 영상을 열면 다시 창을 영상에 맞춤"
+    "version":  "1.99.23",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.23/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.99.23 — 유튜브 받기 실패 때 원인 창 · yt-dlp 새로 받기 권함"
 }
