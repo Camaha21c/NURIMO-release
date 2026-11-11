@@ -1,5 +1,5 @@
 {
-    "version":  "1.99.23",
-    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.23/NURIM.NURIMO-win-Setup.exe",
-    "notes":  "1.99.23 — 유튜브 받기 실패 때 원인 창 · yt-dlp 새로 받기 권함"
+    "version":  "1.99.24",
+    "url":  "https://github.com/Camaha21c/NURIMO-release/releases/download/v1.99.24/NURIM.NURIMO-win-Setup.exe",
+    "notes":  "1.99.24 — ffmpeg 받기(「예」 한 번)"
 }
